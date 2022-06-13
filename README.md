@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alisonpp
+- 👋 Hi, I’m @Alison from Apifiny.com - crypto prime broker
 - 👀 I’m interested in cryptocurrency trading
 - 🌱 I’m currently learning quant trading
 - 💞️ I’m looking to collaborate on trading bot 
